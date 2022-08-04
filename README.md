@@ -36,4 +36,4 @@ YOUR_PROJECT/
 │  ├─
 
 
-If you are an artist interested bringing your work to the blockchain or interested in working on a project with us, please DM us on Twitter We offer any kind of Blockchain development, including collectible projects and custom marketplaces for artists.
+If you are an artist interested bringing your work to the blockchain or interested in working on a project with us, please DM us on Twitter We offer any kind of Blockchain development, including collectable projects and custom marketplaces for artists.
