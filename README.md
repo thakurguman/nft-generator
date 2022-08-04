@@ -3,7 +3,9 @@ Its a GUI based NFT Generator that allows you to generate thousands of NFTs with
 It was made with the intention to make the generative art field more accessible to anyone.
 With this tool you don't need to be a programmer to create generative art.
 
-**Created by Thakur Gumansingh**
+**Created by**
+    Guman Singh - 1812297
+    Kashif      - 1812309
 
 **Usage**
 
